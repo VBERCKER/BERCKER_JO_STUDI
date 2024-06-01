@@ -71,7 +71,9 @@ app.use(passport.initialize());
 app.use(passport.session());
 
 //******************************* */
-
+app.get("/",(req,res)=>{
+    res.send("hello")
+})
 
 // test de connexion back *************************
 app.use("/test", user_router)
