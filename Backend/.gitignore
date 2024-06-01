@@ -2,7 +2,7 @@
 node_modules/
 dist/
 build/
-.cache/
+.cache/git 
 
 # Fichiers de configuration spécifiques à l'environnement local
 .env
