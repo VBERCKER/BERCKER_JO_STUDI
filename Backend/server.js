@@ -33,7 +33,7 @@ const db = mysql.createConnection({
 })
 
 // Cors ******************************
-const whitelist = ['http://localhost:3000','http://localhost:5173',"https://accounts.google.com/","https://checkout.stripe.com/" /** other domains if any */ ]
+const whitelist = ['http://localhost:3000','http://localhost:5173',"https://accounts.google.com/","https://checkout.stripe.com/","https://bercker-jo-studi-dglq.vercel.app" /** other domains if any */ ]
  const corsOptions = { 
     credentials: true, 
     origin: function(origin, callback) { 
