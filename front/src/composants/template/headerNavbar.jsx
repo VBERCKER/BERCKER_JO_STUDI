@@ -30,7 +30,7 @@ function Nav(){
     <div className="flex-items">
     <nav className="navbar navbar-expand-lg ">
   <div className="container-fluid">
-    <a className="navbar-brand" href="/"><img src="./public/img/origine-logo-JO-Paris-2024-870x600.jpg" width="50" height="35"/></a>
+    <a className="navbar-brand" href="/"><img src="/static/images/origine-logo-JO-Paris-2024-870x600.jpg" width="50" height="35"/></a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
@@ -110,7 +110,7 @@ function Nav1(props){
     <div className="flex-items">
     <nav className="navbar navbar-expand-lg ">
   <div className="container-fluid">
-    <a className="navbar-brand" href="/"><img src="./public/img/origine-logo-JO-Paris-2024-870x600.jpg" width="50" height="35"/></a>
+    <a className="navbar-brand" href="/"><img src="/static/images/origine-logo-JO-Paris-2024-870x600.jpg" width="50" height="35"/></a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>

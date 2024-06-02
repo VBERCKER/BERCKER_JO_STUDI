@@ -24,13 +24,13 @@ function GridSport(){
 
       </div>
     <div className="p-3 col">
-    <Card1 titlecard1= {"Breaking"} pcard1={"Breaking est un style de danse originaire des États-Unis dans les années 1970. Il a pris forme dans les fêtes de bloc animées du Bronx, émergeant de la culture hip hop, et se caractérise par des mouvements acrobatiques, un jeu de jambes stylisé et le rôle clé joué par le DJ et le MC (maître de cérémonie) pendant les batailles. "} image={"./public/img/breaking-dance-hihop.jpg"}/>
+    <Card1 titlecard1= {"Breaking"} pcard1={"Breaking est un style de danse originaire des États-Unis dans les années 1970. Il a pris forme dans les fêtes de bloc animées du Bronx, émergeant de la culture hip hop, et se caractérise par des mouvements acrobatiques, un jeu de jambes stylisé et le rôle clé joué par le DJ et le MC (maître de cérémonie) pendant les batailles. "} image={"/static/images/breaking-dance-hihop.jpg"}/>
     </div>
     <div className=" p-3 col">
-    <Card1 titlecard1= {"Rugby à 7"} pcard1={"Le sport du rugby peut remonter à l'époque médiévale dans un certain nombre de pays européens, mais c'est entre 1845 et 1848 que les codes de rugby modernes ont été établis par des élèves d'une école de la ville anglaise de Rugby et de l'Université de Cambridge. "} image={"./public/img/MjAyNDAyNmFjNjU4ZGQyNTUzZjNjYzU5NTc5ODMyNWI2NzYxNWQ.avif"}/>
+    <Card1 titlecard1= {"Rugby à 7"} pcard1={"Le sport du rugby peut remonter à l'époque médiévale dans un certain nombre de pays européens, mais c'est entre 1845 et 1848 que les codes de rugby modernes ont été établis par des élèves d'une école de la ville anglaise de Rugby et de l'Université de Cambridge. "} image={"/static/images/MjAyNDAyNmFjNjU4ZGQyNTUzZjNjYzU5NTc5ODMyNWI2NzYxNWQ.avif"}/>
     </div>
     <div className="p-3 col">
-    <Card1 titlecard1= {"Athlétisme"} pcard1={"L’athlétisme est le sport le plus ancien dont nous avons des traces, puisqu’il apparaît dès les Jeux Olympiques de l’Antiquité. Il est possible de trouver les champions d’athlétisme depuis 776 avant J-C.  "} image={"./public/img/02544.jpg"}/>
+    <Card1 titlecard1= {"Athlétisme"} pcard1={"L’athlétisme est le sport le plus ancien dont nous avons des traces, puisqu’il apparaît dès les Jeux Olympiques de l’Antiquité. Il est possible de trouver les champions d’athlétisme depuis 776 avant J-C.  "} image={"/static/images/02544.jpg"}/>
     </div>
   </div>
 </div>

@@ -56,7 +56,7 @@ height: 70vh;
 .headeroffre {
   height: 70vh;
  margin-bottom: 10%;
-background-image: url("./public/img/Paris2024-Contenus-Affiche_Officiel-RVB-2560x1440-1.webp");
+background-image: url("/static/images/Paris2024-Contenus-Affiche_Officiel-RVB-2560x1440-1.webp");
 background-size: cover;
 background-position: center;
 }
