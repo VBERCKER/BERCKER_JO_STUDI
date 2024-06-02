@@ -20,7 +20,7 @@ function GridSport(){
   <div className="row">
     <div className=" p-3 col-sm ">
 
-     <Card1 titlecard1= {"Basket 3x3"} pcard1={"Le basketball 3×3 se joue par équipes de trois joueurs, sur un demi-terrain ; les deux équipes attaquent et défendent le même panier, en fonction de qui a la possession. L’équipe en tête au bout de dix minutes de jeu, ou la première à atteindre 21 points, remporte le match. "} image={"./public/img/sports-collectifs-aux-jo.jpg"}/>
+     <Card1 titlecard1= {"Basket 3x3"} pcard1={"Le basketball 3×3 se joue par équipes de trois joueurs, sur un demi-terrain ; les deux équipes attaquent et défendent le même panier, en fonction de qui a la possession. L’équipe en tête au bout de dix minutes de jeu, ou la première à atteindre 21 points, remporte le match. "} image={"/static/images/sports-collectifs-aux-jo.jpg"}/>
 
       </div>
     <div className="p-3 col">
