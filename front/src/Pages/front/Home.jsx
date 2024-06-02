@@ -32,7 +32,7 @@ function Home(){
 
         </div>
        
-        <Header src = {"./public/img/1200x680_sc_f1yhtk6wcamaltg.jpg"}
+        <Header src = {"/public/img/1200x680_sc_f1yhtk6wcamaltg.jpg"}
          alt={"dessin du champs de mars avec une foule popualire"} 
          h1={"Paris 2024"}
            p= {"En 2024, Paris accueillera le plus grand évènement de son histoire. 100 ans après, les Jeux Olympiques et Paralympiques sont de retour pour vous faire vibrer dans la plus belle ville du monde, aux quatre coins de la France et sur des sites de compétition iconiques, pour des Jeux qui s’annoncent inoubliables. Pour assister au plus grand évènement sportif au monde, Paris 2024 propose une offre de services à la hauteur de l’évènement. Plusieurs solutions clés en main : de l’achat du billet en solo, duo ou familiale, optez pour l’offre la plus adaptée à vos besoins."} 
@@ -47,9 +47,9 @@ function Home(){
         hsport={"Les sports"} psport={"Pour les Jeux Olympique 2024 ! La France presente 3 nouvelles activités sportives."}
         hoffre={"Nos offres."} poffre={"Pour Paris 2024, nous proposons 3 offres pour acheter vos billets. Seul, a deux ou en famille, venez souteznir nos athlètes !"}
         hjeu={"L'histoire des jeux Olympique."} pjeu={"128 ans d'histoire depuis la création des jeux olympique en 1896."}
-        sport={"./public/img/design-sans-titre-7.png"} sportalt={"image de sportif"}
-            offre={"./public/img/billets-Jeux-olympiques-Tokyo-2020-tickets.jpg"} offrealt={"image de billet"}
-            jeu={"./public/img/63da3a7e85f00_modele-brouillon.jpg"} jeualt={"logo paris 2024"}
+        sport={"/public/img/design-sans-titre-7.png"} sportalt={"image de sportif"}
+            offre={"/public/img/billets-Jeux-olympiques-Tokyo-2020-tickets.jpg"} offrealt={"image de billet"}
+            jeu={"/public/img/63da3a7e85f00_modele-brouillon.jpg"} jeualt={"logo paris 2024"}
         />
         </div>
         <div >
