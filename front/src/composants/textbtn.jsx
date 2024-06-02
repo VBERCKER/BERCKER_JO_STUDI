@@ -19,7 +19,7 @@ function GridSport(){
         <div className="container text-center">
   <div className="row">
     <div className=" p-3 col-sm ">
-     <Card1 titlecard1= {"Basket 3x3"} pcard1={"Le basketball 3×3 se joue par équipes de trois joueurs, sur un demi-terrain ; les deux équipes attaquent et défendent le même panier, en fonction de qui a la possession. L’équipe en tête au bout de dix minutes de jeu, ou la première à atteindre 21 points, remporte le match. "} image={"/public/img/sports-collectifs-aux-jo.jpg"}/>
+     <Card1 titlecard1= {"Basket 3x3"} pcard1={"Le basketball 3×3 se joue par équipes de trois joueurs, sur un demi-terrain ; les deux équipes attaquent et défendent le même panier, en fonction de qui a la possession. L’équipe en tête au bout de dix minutes de jeu, ou la première à atteindre 21 points, remporte le match. "} image={"img/sports-collectifs-aux-jo.jpg"}/>
     </div>
     <div className="p-3 col">
     <Card1 titlecard1= {"Breaking"} pcard1={"Breaking est un style de danse originaire des États-Unis dans les années 1970. Il a pris forme dans les fêtes de bloc animées du Bronx, émergeant de la culture hip hop, et se caractérise par des mouvements acrobatiques, un jeu de jambes stylisé et le rôle clé joué par le DJ et le MC (maître de cérémonie) pendant les batailles. "} image={"./public/img/breaking-dance-hihop.jpg"}/>
