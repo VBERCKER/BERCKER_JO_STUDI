@@ -28,7 +28,7 @@ function GridSport(){
     <Card1 titlecard1= {"Rugby à 7"} pcard1={"Le sport du rugby peut remonter à l'époque médiévale dans un certain nombre de pays européens, mais c'est entre 1845 et 1848 que les codes de rugby modernes ont été établis par des élèves d'une école de la ville anglaise de Rugby et de l'Université de Cambridge. "} image={"/public/img/MjAyNDAyNmFjNjU4ZGQyNTUzZjNjYzU5NTc5ODMyNWI2NzYxNWQ.avif"}/>
     </div>
     <div className="p-3 col">
-    <Card1 titlecard1= {"Athlétisme"} pcard1={"L’athlétisme est le sport le plus ancien dont nous avons des traces, puisqu’il apparaît dès les Jeux Olympiques de l’Antiquité. Il est possible de trouver les champions d’athlétisme depuis 776 avant J-C.  "} image={"/public/images/02544.jpg"}/>
+    <Card1 titlecard1= {"Athlétisme"} pcard1={"L’athlétisme est le sport le plus ancien dont nous avons des traces, puisqu’il apparaît dès les Jeux Olympiques de l’Antiquité. Il est possible de trouver les champions d’athlétisme depuis 776 avant J-C.  "} image={"/static/images/02544.jpg"}/>
     </div>
   </div>
 </div>
