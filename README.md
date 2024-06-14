@@ -19,6 +19,6 @@ Cette application permet de faire la reservation de tickets pour les jeux olympi
 
 ## Site internet 
 
-voici le sit : https://bercker-jo-studi-y38o.vercel.app
+voici le site : https://frontprod-pink.vercel.app
 
 le code admin est dans la documentation.  
